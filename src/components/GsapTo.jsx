@@ -13,7 +13,7 @@ const GsapTo = () => {
             x: 100,
             duration: 2,
             repeat: 2,
-            // yoyo: true,
+            yoyo: true,
             // rotation: 360,
             ease: "power1.inOut",
             // ease: "elastic",
